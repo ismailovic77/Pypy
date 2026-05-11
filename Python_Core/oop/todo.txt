@@ -1,0 +1,3 @@
+work on an example of inheritance , composition , and dependecy injection
+
+start on there terms : __str__, __repr__ ,__len__, __eq__, __add__, __getitem__
